@@ -1,0 +1,12 @@
+node_modules/
+.env
+*.log
+logs/
+public/uploads/docs/
+config/gcp-key.json
+.DS_Store
+.idea/
+.vscode/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
